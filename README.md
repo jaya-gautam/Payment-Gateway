@@ -1,6 +1,6 @@
 # Payment-Gateway
 
-Setup project environment with virtualenv and pip.
+Setup project environment with virtualenv and pip
 
 $ Make a directory to start the project (Payement-Gateway)
 $ cd Payment-Gateway/
