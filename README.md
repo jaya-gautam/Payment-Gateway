@@ -1,4 +1,6 @@
 # Payment-Gateway
+```bash
+Payment Gateway api is implemented with all the validations wrt card number, expiry month, expiry year etc.
 
 ## Getting Started
 
